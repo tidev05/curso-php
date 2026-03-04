@@ -5,3 +5,7 @@ Desecreve o precesso de aprendizado naliguagem em php ao básico até o avançad
 git remote add origin https://github.com/tidev05/curso-php.git
 git branch -M main
 git push -u origin main
+git init
+git add README.md
+git commit -m "Descrição do rempositório"
+git push -u origin main
